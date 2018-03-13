@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Dachampster/app/issues"
   },
-  "homepage": "https://github.com/Dachampster/app#readme"
+  "homepage": "https://github.com/Dachampster/app#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
