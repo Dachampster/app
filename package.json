@@ -1,0 +1,23 @@
+{
+  "name": "class",
+  "version": "1.0.0",
+  "description": "does thing poorly",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dachampster/app.git"
+  },
+  "keywords": [
+    "bad"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dachampster/app/issues"
+  },
+  "homepage": "https://github.com/Dachampster/app#readme"
+}
